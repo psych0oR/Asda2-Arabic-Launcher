@@ -1,0 +1,19 @@
+C:\Users\محمدحسين\source\repos\tahadi launcher\tahadi launcher\bin\Debug\tahadi launcher.exe.config
+C:\Users\محمدحسين\source\repos\tahadi launcher\tahadi launcher\bin\Debug\tahadi launcher.exe
+C:\Users\محمدحسين\source\repos\tahadi launcher\tahadi launcher\bin\Debug\tahadi launcher.pdb
+C:\Users\محمدحسين\source\repos\tahadi launcher\tahadi launcher\obj\Debug\tahadi_launcher.Form1.resources
+C:\Users\محمدحسين\source\repos\tahadi launcher\tahadi launcher\obj\Debug\tahadi_launcher.Properties.Resources.resources
+C:\Users\محمدحسين\source\repos\tahadi launcher\tahadi launcher\obj\Debug\tahadi launcher.csproj.GenerateResource.cache
+C:\Users\محمدحسين\source\repos\tahadi launcher\tahadi launcher\obj\Debug\tahadi launcher.csproj.CoreCompileInputs.cache
+C:\Users\محمدحسين\source\repos\tahadi launcher\tahadi launcher\obj\Debug\tahadi launcher.exe
+C:\Users\محمدحسين\source\repos\tahadi launcher\tahadi launcher\obj\Debug\tahadi launcher.pdb
+E:\Asda 2 Project\tahadi launcher - SourceCode\tahadi launcher\bin\Debug\tahadi launcher.exe.config
+E:\Asda 2 Project\tahadi launcher - SourceCode\tahadi launcher\bin\Debug\tahadi launcher.exe
+E:\Asda 2 Project\tahadi launcher - SourceCode\tahadi launcher\bin\Debug\tahadi launcher.pdb
+E:\Asda 2 Project\tahadi launcher - SourceCode\tahadi launcher\obj\Debug\tahadi launcher.csproj.AssemblyReference.cache
+E:\Asda 2 Project\tahadi launcher - SourceCode\tahadi launcher\obj\Debug\tahadi_launcher.Form1.resources
+E:\Asda 2 Project\tahadi launcher - SourceCode\tahadi launcher\obj\Debug\tahadi_launcher.Properties.Resources.resources
+E:\Asda 2 Project\tahadi launcher - SourceCode\tahadi launcher\obj\Debug\tahadi launcher.csproj.GenerateResource.cache
+E:\Asda 2 Project\tahadi launcher - SourceCode\tahadi launcher\obj\Debug\tahadi launcher.csproj.CoreCompileInputs.cache
+E:\Asda 2 Project\tahadi launcher - SourceCode\tahadi launcher\obj\Debug\tahadi launcher.exe
+E:\Asda 2 Project\tahadi launcher - SourceCode\tahadi launcher\obj\Debug\tahadi launcher.pdb
